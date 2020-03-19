@@ -106,3 +106,5 @@ ENV/
 *.fdb_latexmk
 *.synctex.gz
 *.tex
+*.ipynb
+labs/labs_progress
